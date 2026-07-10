@@ -11,12 +11,13 @@ My background combines formal computer science training, scientific research exp
 - Testing, documentation, and maintainable workflows
 - Research-informed software and data systems
 
-## Selected work
+## Selected public work
 
-- **Knowledge-Based Minesweeper AI** — Python reasoning project using logical inference, tests, and a browser interface.
-- **Constraint-Based Crossword Solver** — Python constraint-satisfaction/search project.
-- **Django Portfolio Platform** — Django-based portfolio and project case-study platform.
-- **drkusse.com** — Public portfolio and project hub.
+- **Knowledge-Based Minesweeper AI** — Python reasoning project using logical inference, tests, structured reasoning traces, and browser interfaces.  
+  Repository: https://github.com/ksbk/knowledge-based-minesweeper-ai  
+  Demo: https://ksbk.github.io/knowledge-based-minesweeper-ai/
+- **drkusse.com** — Public portfolio and project hub.  
+  Website: https://www.drkusse.com
 
 ## Links
 
