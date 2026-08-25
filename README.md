@@ -1,23 +1,36 @@
 # Kusse Sukuta Bersha
 
-Software developer and researcher based in Reykjavík, Iceland.
+Computational scientist and software engineer based in Iceland.
 
-My background combines formal computer science training, scientific research experience, and recent practical work with Python, Django, AI reasoning, and web-based software projects.
+I have a PhD in Physical Chemistry, an Erasmus Mundus MSc with a Computer Science major, and a background in physics and mathematics. My work combines scientific Python, numerical modelling, experimental and imaging data analysis, optimisation, and reproducible software engineering.
 
 ## Current focus
 
-- Python and Django web development
-- AI reasoning and explainable systems
-- Testing, documentation, and maintainable workflows
-- Research-informed software and data systems
+- Scientific Python and numerical modelling
+- Physics-informed simulation and model validation
+- Experimental and imaging data analysis
+- Reproducible computational research and technical documentation
+- Reliable Python software, automated testing, CI, and maintainable workflows
+- Applied AI and data-driven systems
 
-## Selected public work
+## Selected scientific work
 
-- **Knowledge-Based Minesweeper AI** — Python reasoning project using logical inference, tests, structured reasoning traces, and browser interfaces.  
-  Repository: https://github.com/ksbk/knowledge-based-minesweeper-ai  
-  Demo: https://ksbk.github.io/knowledge-based-minesweeper-ai/
-- **drkusse.com** — Public portfolio and project hub.  
-  Website: https://www.drkusse.com
+- **Nanocluster structure deduced from AC-STEM images coupled to theoretical modelling** — computational reconstruction of atomic structure from electron-microscopy data using image analysis, physical interaction models, and optimisation.  
+  [Published article](https://doi.org/10.17586/2220-8054-2017-8-6-723-731)
+- **From AC-STEM Image to 3D Structure: A Systematic Analysis of Au55 Nanocluster** — systematic computational analysis of three-dimensional structure recovery from microscopy data.  
+  [Preprint](https://arxiv.org/abs/2105.04270)
+- **Current scientific-computing work** — simulation and validation methods for image-based structural analysis, including Gaussian projection models and reproducible Python workflows.
+
+## Selected software work
+
+- **Knowledge-Based Minesweeper AI** — tested Python reasoning system with logical inference, structured reasoning traces, and browser interfaces.  
+  [Repository](https://github.com/ksbk/knowledge-based-minesweeper-ai) · [Demo](https://ksbk.github.io/knowledge-based-minesweeper-ai/)
+- **drkusse.com** — public research, software, and project portfolio.  
+  [Portfolio](https://www.drkusse.com)
+
+## What I bring to technical R&D
+
+I am most useful on problems that require moving between physical or mathematical reasoning, scientific data, numerical computation, and robust software implementation. My research background includes building models from experimental measurements, testing assumptions against data, analysing failure modes, and documenting methods and results clearly.
 
 ## Links
 
